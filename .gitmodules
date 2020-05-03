@@ -1,3 +1,18 @@
 [submodule "Comparator"]
 	path = Comparator
 	url = https://github.com/hadilou/Comparator
+[submodule "Parameterizable-Multiplier"]
+	path = Parameterizable-Multiplier
+	url = https://github.com/hadilou/Parameterizable-Multiplier
+[submodule "Creeping-Line"]
+	path = Creeping-Line
+	url = https://github.com/hadilou/Creeping-Line
+	branch = master
+[submodule "Counter"]
+	path = Counter
+	url = https://github.com/hadilou/Counter
+	branch = master
+[submodule "Adder"]
+	path = Adder
+	url = https://github.com/hadilou/Adder
+	branch = master
